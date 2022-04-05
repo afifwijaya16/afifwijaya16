@@ -3,10 +3,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifwijaya16&layout=compact)](https://github.com/afifwijaya)
 <br>
 
-👋 Hello... My full name is Afif Wijaya. I'm Software Engineer.
+👋 Hello... My full name is Afif Wijaya. I'm Web Developer.
 
 ### 🚀 How to reach me:
-- Web: [afif wijaya](https://afifwijaya16.github.io)
+- Github: [afif wijaya](https://afifwijaya16.github.io)
+- Portofolio: [afif wijaya](https://afifwijaya-portofolio.netlify.app/)
 - Email: [afif0071997@gmail.com](afif0071997@gmail.com)
 
 ---
