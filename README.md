@@ -7,7 +7,7 @@ Web Developer
 I am web developer from Menggala. I started coding since I was in collage. I stater from HTML. Working as a team member or solo player, I always try to be humility and flexible. I like play game 🎮, Foodie 🍕, Traveller 🗺️ 🚗.
 
 * 🌍  I'm based in Bandar Lampung , Lampung , Indonesia
-* 🖥️  See my portfolio at [https://afifwijaya-portofolio.netlify.app/](http://https://afifwijaya-portofolio.netlify.app/)
+* 🖥️  See my portfolio at [https://afifwijaya-portofolio.netlify.app/](https://afifwijaya-portofolio.netlify.app/)
 * ✉️  You can contact me at [afif0071997@gmail.com](mailto:afif0071997@gmail.com)
 
 ### Skills
